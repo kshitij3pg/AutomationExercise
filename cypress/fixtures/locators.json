@@ -1,0 +1,18 @@
+{
+    "homepage":{
+        "productButton":"a[href='/products']"
+    },
+    "productsPage":{
+        "searchLabel":"input[id='search_product']",
+        "searchButton":"button[id='submit_search']",
+        "productImageWrapper":"div[class='product-image-wrapper']",
+        "addFirstProduct":"a[data-product-id='1']",
+        "addSecondProduct":"a[data-product-id='2']",
+        "continueShopping":"button[data-dismiss='modal']",
+        "viewCart":"a[href='/view_cart']",
+        "firstItem":"/html/body/section[2]/div/div/div[2]/div/div[2]/div/div[1]/div[1]/p",
+        "firstItemPrice":"/html/body/section[2]/div/div/div[2]/div/div[2]/div/div[1]/div[1]/h2",
+        "secondItem":"/html/body/section[2]/div/div/div[2]/div/div[3]/div/div[1]/div[1]/p",
+        "secondItemPrice":"/html/body/section[2]/div/div/div[2]/div/div[3]/div/div[1]/div[1]/h2"
+    }
+}

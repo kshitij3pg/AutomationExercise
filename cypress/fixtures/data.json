@@ -1,0 +1,10 @@
+{
+    "homepage":{
+        "url":"https://automationexercise.com/"
+    },
+    "productsPage":{
+        "url":"https://automationexercise.com/products",
+        "productName":"shirt",
+        "text":"Searched Products"
+    }
+}
